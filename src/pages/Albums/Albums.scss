@@ -1,0 +1,13 @@
+#albums {
+    .albums__list {
+        list-style-type: none;
+        padding: 0;
+
+        .albums__item {
+            margin: 10px 0;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+    }
+}

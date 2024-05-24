@@ -1,0 +1,31 @@
+#photos {
+    .photos__list {
+        list-style-type: none;
+        padding: 0;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 1rem;
+
+        .photos__item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            list-style-type: none;
+
+            a, img {
+                width: 100%;
+            }
+
+            img {
+                height: auto;
+                border-radius: 4px 4px 0 0 ;
+            }
+
+            p {
+                padding-inline: 10px;
+            }
+        }
+    }
+}

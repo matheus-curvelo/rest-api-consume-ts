@@ -1,0 +1,27 @@
+.header {
+  background-color: #F6F5F2;
+  padding: 1rem;
+
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+
+  li {
+    a {
+      text-decoration: none;
+      color: #000;
+      font-weight: bold;
+
+      &.active {
+        text-decoration: underline;
+        color: #007bff; // Cor para o link ativo
+      }
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+}
