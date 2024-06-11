@@ -67,3 +67,6 @@ Página de Fotos: Busca e exibe uma lista de fotos da API.
 
 ## Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+Este projeto está licenciado sob a Licença MIT.
