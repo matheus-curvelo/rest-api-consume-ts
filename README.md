@@ -16,10 +16,15 @@ Este projeto é uma aplicação simples em React que demonstra como consumir API
 https://rest-api-consume-ts.vercel.app/
 
 ## Recursos
-Busca e exibição de posts, álbuns e fotos de uma API.
-A página inicial exibe um resumo dos posts, álbuns e fotos mais recentes, com um botão "Ver mais".
-Design responsivo para dispositivos móveis e desktop.
-Destaque de navegação ativo para a página atual.
+
+<p>Busca e exibição de posts, álbuns e fotos de uma API.
+</p>
+<p>A página inicial exibe um resumo dos posts, álbuns e fotos mais recentes, com um botão "Ver mais".
+</p>
+<p>Design responsivo para dispositivos móveis e desktop.
+</p>
+<p>Destaque de navegação ativo para a página atual.
+</p>
 
 ## Tecnologias
 
@@ -60,10 +65,15 @@ Inicie o servidor de desenvolvimento:
 A aplicação deverá estar rodando em http://localhost:3000.
 
 ## Uso
-Página Inicial: Exibe um resumo de posts, álbuns e fotos com links para ver mais.
-Página de Posts: Busca e exibe uma lista de posts da API.
-Página de Álbuns: Busca e exibe uma lista de álbuns da API.
-Página de Fotos: Busca e exibe uma lista de fotos da API.
+
+<p>Página Inicial: Exibe um resumo de posts, álbuns e fotos com links para ver mais.
+</p>
+<p>Página de Posts: Busca e exibe uma lista de posts da API.
+</p>
+<p>Página de Álbuns: Busca e exibe uma lista de álbuns da API.
+</p>
+<p>Página de Fotos: Busca e exibe uma lista de fotos da API.
+</p>
 
 ## Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
